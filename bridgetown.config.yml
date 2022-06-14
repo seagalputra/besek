@@ -25,8 +25,8 @@ template_engine: liquid
 # ensure you use the `relative_url` helper for all links and assets in your HTML.
 # If you're using esbuild for frontend assets, edit `esbuild.config.js` to
 # update `publicPath`.
-base_path: "/"
+base_path: "/topaz"
 
-# timezone: America/Los_Angeles
-# pagination:
-#   enabled: true
+timzone: Asia/Jakarta
+pagination:
+  enabled: true
